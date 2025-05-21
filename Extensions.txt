@@ -22,7 +22,6 @@ babuk
 BarRax
 basta
 bianlian
-bin
 bitstak
 blackcat
 blackmatter
@@ -62,12 +61,10 @@ d4nk
 dale
 damage
 darkness
-data
 dCrypt
 decrypt2017
 Dexter
 dharma
-dll
 dxxd
 ecc
 edgel
@@ -200,7 +197,6 @@ rnsmwr
 rokku
 royal
 rrk
-ruby
 sage
 SecureCrypted
 serp
