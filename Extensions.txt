@@ -173,7 +173,6 @@ play
 PoAr2w
 potato
 powerfulldecrypt
-ppam
 pubg
 purge
 pzdc
