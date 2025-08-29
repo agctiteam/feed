@@ -193,7 +193,6 @@ nemty_v25.txt
 netwalker.txt
 nightspire_readme.txt
 nokoyawa.txt
-note.txt
 notext.txt
 OPTIMUS_readme.txt
 phobos.txt
@@ -296,4 +295,3 @@ yanluowang.txt
 YOUR_FILES.HTML
 YOUR_FILES.url
 zeon.txt
-
