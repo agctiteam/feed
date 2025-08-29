@@ -217,7 +217,6 @@ Readme.[id].txt
 README.BlackSuit.txt
 README.dcglhCm.txt
 README.LOCKEDBYCR.txt
-README.txt
 ReadMe[1].txt
 readme_[id].txt
 readme_[id]_2.txt
@@ -297,3 +296,4 @@ yanluowang.txt
 YOUR_FILES.HTML
 YOUR_FILES.url
 zeon.txt
+
