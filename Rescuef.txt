@@ -104,5 +104,4 @@ vault.hta
 vault.key
 vault.txt
 YOUR_FILES.HTML
-
 YOUR_FILES.url
